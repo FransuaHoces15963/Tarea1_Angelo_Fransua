@@ -1,5 +1,5 @@
 # DAWII-Sesion01Inicio
-### Servicio Rest - Incial
+### Servicio Rest - Inicial
 
 ## Autor ✒️
 
